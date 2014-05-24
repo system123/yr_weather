@@ -1,0 +1,9 @@
+A simple, hacky weather plugin for Wordpress. Generates a 4 day forecast using yr.no weather service.
+
+Uses the following shortcode to embed in the sidebar or anywhere else.
+
+[yrweather location="<yr.no location>"]
+
+eg: [yrweather location="South_Africa/Western_Cape/Du_Toitskloof"]
+
+
